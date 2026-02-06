@@ -69,16 +69,10 @@ I enjoy turning ideas into working products and continuously improving my skills
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Languages and Tools
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Devstar000&show_icons=true&hide_title=true&count_private=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devstar000&layout=compact"
-    height="160"
-  />
+  <img src="https://skillicons.dev/icons?i=aws,bash,c,css,docker,express,figma,firebase,gcp,git,go,graphql,html,js,kubernetes,linux,lua,mongodb,nextjs,nodejs,photoshop,postgres,python,react,redis,sass,selenium,tailwind,ts,vue" />
 </p>
 
 ---
