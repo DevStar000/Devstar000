@@ -1,7 +1,14 @@
+<p align="center">
+  <img src="assets/bbb.png" width="100%" />
+</p>
 <h1 align="center">Hi, I'm Devstar 👋</h1>
 <h3 align="center">Full-Stack Web • Game • Mobile Developer</h3>
 
 <p align="center">
+   <img src="assets/interior-design_5.png" width="45%" />
+  <img src="assets/3D_Sample_02.png" width="45%" />
+  <img src="assets/Screenshot 2025-10-23 225304.png" width="45%" />
+  <img src="assets/mobile.png" width="45%" />
   🚀 Building real-world applications <br/>
   🎮 Creating games & interactive experiences <br/>
   📱 Developing modern web & mobile solutions
@@ -64,7 +71,14 @@ I enjoy turning ideas into working products and continuously improving my skills
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devstar000&show_icons=true&theme=default" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Devstar000&show_icons=true&hide_title=true&count_private=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devstar000&layout=compact"
+    height="160"
+  />
 </p>
 
 ---
