@@ -15,7 +15,7 @@
    <img src="assets/skisse.png" width="45%" />
   <img src="assets/game.png" width="45%" />
   <img src="assets/Screenshot 2026-01-16 074302.png" width="15%" />
-  <img src="assets/modeling.jpg" width="45%" /><br/>
+  <img src="assets/modeling.jpg" width="65%" /><br/>
 </p>
 
 ---
