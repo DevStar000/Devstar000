@@ -11,7 +11,7 @@
   <img src="assets/mobile.png" width="45%" /><br/>
   🚀 Building real-world applications <br/>
   🎮 Creating games & interactive experiences <br/>
-  📱 Developing modern web & mobile solutions
+  📱 Developing modern web & mobile solutions<br/>
    <img src="assets/skisse.png" width="45%" />
   <img src="assets/game.png" width="45%" />
   <img src="assets/Screenshot 2026-01-16 074302.png" width="45%" />
