@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/bbb.jpg" width="100%" height="5%" />
+  <img src="assets/banner.jpg" width="100%" height="5%" />
 </p>
 <h1 align="center">Hi, I'm Devstar000 👋</h1>
 <h3 align="center">Full-Stack Web • Game • Mobile Developer</h3>
