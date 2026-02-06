@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="assets/bbb.png" width="100%" />
+  <img src="assets/bbb.jpg" width="100%" />
 </p>
 <h1 align="center">Hi, I'm Devstar 👋</h1>
 <h3 align="center">Full-Stack Web • Game • Mobile Developer</h3>
 
 <p align="center">
    <img src="assets/interior-design_5.png" width="45%" />
-  <img src="assets/3D_Sample_02.png" width="45%" />
+  <img src="assets/3D_Sample_02.jpg" width="45%" />
   <img src="assets/Screenshot 2025-10-23 225304.png" width="45%" />
-  <img src="assets/mobile.png" width="45%" />
+  <img src="assets/mobile.png" width="45%" /><br/>
   🚀 Building real-world applications <br/>
   🎮 Creating games & interactive experiences <br/>
   📱 Developing modern web & mobile solutions
