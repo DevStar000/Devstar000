@@ -69,10 +69,10 @@ I enjoy turning ideas into working products and continuously improving my skills
 
 ---
 
-## 🧰 Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,unity,cs,git,github,android,docker,mongodb" />
+
+<p align="center" ## 🧰 Languages and Tools>
+  <img src="https://skillicons.dev/icons?i=aws,bash,c,css,docker,express,figma,firebase,gcp,git,go,graphql,html,js,kubernetes,linux,lua,mongodb,nextjs,nodejs,photoshop,postgres,python,react,redis,sass,selenium,tailwind,ts,vue" />
 </p>
 
 
